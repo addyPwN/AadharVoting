@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AadharVoting</string>
+    <string name="proceed">Proceed</string>
+    <string name="aadhar_number">Aadhar Number</string>
+</resources>
